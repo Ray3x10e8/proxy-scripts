@@ -5,7 +5,7 @@
 function FindProxyForURL(url, host)
   {
     var ip = myIpAddress();
-    var debug = "";
+    var debug = "aa";
 
     if(debug)
     {
